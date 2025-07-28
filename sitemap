@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.livicino.com/</loc>
+    <lastmod>2025-07-28</lastmod>
+  </url>
+
+  <!-- Custom Itinerary -->
+  <url>
+    <loc>https://www.livicino.com/custom-italy-travel-itinerary</loc>
+    <lastmod>2025-07-28</lastmod>
+  </url>
+
+  <!-- All Travel Guides (Shop) -->
+  <url>
+    <loc>https://www.livicino.com/shop-italy-travel-guides</loc>
+    <lastmod>2025-07-28</lastmod>
+  </url>
+
+  <!-- Inclusive Travel Add-On -->
+  <url>
+    <loc>https://www.livicino.com/inclusive-italy-travel-support</loc>
+    <lastmod>2025-07-28</lastmod>
+  </url>
+
+  <!-- Italy Itinerary Overview -->
+  <url>
+    <loc>https://www.livicino.com/italy-travel-itinerary-guides</loc>
+    <lastmod>2025-07-28</lastmod>
+  </url>
+
+  <!-- Blog (Fixed URL) -->
+  <url>
+    <loc>https://www.livicino.com/blog</loc>
+    <lastmod>2025-07-28</lastmod>
+  </url>
+
+  <!-- FAQ Page -->
+  <url>
+    <loc>https://www.livicino.com/italy-travel-faq</loc>
+    <lastmod>2025-07-28</lastmod>
+  </url>
+
+  <!-- Community Page -->
+  <url>
+    <loc>https://www.livicino.com/slow-travel-community</loc>
+    <lastmod>2025-07-28</lastmod>
+  </url>
+
+</urlset>
